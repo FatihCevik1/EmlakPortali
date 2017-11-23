@@ -1,0 +1,75 @@
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\ApplicationInsights.config
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\csc.exe
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\vbc.exe
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\VBCSCompiler.exe
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.dll.config
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.pdb
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.Web.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.ApplicationInsights.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.Web.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.ApplicationInsights.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.vbprojResolveAssemblyReference.cache
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak_Portali.Resources.resources
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.vbproj.GenerateResource.Cache
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.dll
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.xml
+C:\Users\behce\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.pdb
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\ApplicationInsights.config
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\csc.exe
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\vbc.exe
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\VBCSCompiler.exe
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.dll.config
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.pdb
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Emlak Portali.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.Web.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.Web.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.vbprojResolveAssemblyReference.cache
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak_Portali.Resources.resources
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.vbproj.GenerateResource.Cache
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.vbproj.CoreCompileInputs.cache
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.dll
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.xml
+C:\Users\Şükrü\Desktop\Emlak Portalı-1\Emlak Portali\Emlak Portali\obj\Debug\Emlak Portali.pdb
