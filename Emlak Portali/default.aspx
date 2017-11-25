@@ -512,7 +512,7 @@
 					 <ul class="blog-list3 list_1">
 					 	<li class="blog-list3-img"><img src="images/pic12.jpg" class="img-responsive" alt=""/></li>
 					 	<li class="blog-list3-desc">
-					 	  <h4><a href="#">Abdulkerim Basan</a></h4>
+					 	  <h4><a href="#">Hasan Saskin</a></h4>
 					 	    <ul class="admin_desc">
 							    <li class="list_top"><i class="fa fa-phone-square ph"> </i>
 								<p class="m_2">531 546 2224</p></li>
@@ -542,7 +542,7 @@
 					 <ul class="blog-list3">
 					 	<li class="blog-list3-img"><img src="images/pic7.jpg" class="img-responsive" alt=""/></li>
 					 	<li class="blog-list3-desc">
-					 	  <h4><a href="#">Tayyar Ağa</a></h4>
+					 	  <h4><a href="#">Teoman</a></h4>
 					 	    <ul class="admin_desc">
 							    <li class="list_top"><i class="fa fa-phone-square ph"> </i>
 								<p class="m_2">541 243 32 22</p></li>
